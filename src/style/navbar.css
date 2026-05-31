@@ -1,0 +1,16 @@
+nav {
+  display: flex;
+  gap: 20px;
+  background-color: rgb(2, 94, 14);
+  padding: 10px;
+  color: white;
+}
+
+nav .links a {
+  color: white;
+}
+
+nav .links {
+  display: flex;
+  column-gap: 10px;
+}
